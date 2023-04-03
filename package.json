@@ -5,7 +5,7 @@
   "dist": "dist",
   "dependencies": {
     "ace-builds": "^1.4.5",
-    "angular": "~1.7.7",
+    "angular": "~1.8.3",
     "angular-local-storage": "~0.7.1",
     "angular-sanitize": "~1.7.7",
     "angular-ui-ace": "0.2.3",
